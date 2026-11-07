@@ -1,4 +1,4 @@
-const EMAIL_TO = "REPLACE_WITH_BUSINESS_EMAIL";
+const EMAIL_TO = "ai.ngo.intelligence@gmail.com";
 const translations = {
 en: {
 topline:"Practical analytics for humanitarian and development programmes",nav_platform:"Platform",nav_solutions:"Solutions",nav_how:"How it works",nav_pricing:"Pricing",nav_about:"About",nav_contact:"Request a demo",
